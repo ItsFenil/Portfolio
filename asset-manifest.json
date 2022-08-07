@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.7de55f88.css",
+    "main.js": "/Portfolio/static/js/main.cf8023e6.js",
+    "static/media/HotstarClone.png": "/Portfolio/static/media/HotstarClone.e02f4a3ed60fb71cb9df.png",
+    "static/media/RoboFriends.png": "/Portfolio/static/media/RoboFriends.b4c7b81c3dc13d3cc4fa.png",
+    "static/media/Background Generator.png": "/Portfolio/static/media/Background Generator.64dc4b56fd35b1206383.png",
+    "static/media/RPS.png": "/Portfolio/static/media/RPS.14d58db5136da79aeb80.png",
+    "static/media/me.jpg": "/Portfolio/static/media/me.b738a511ffb78c6f6b4c.jpg",
+    "static/media/Awesome Quiz App.png": "/Portfolio/static/media/Awesome Quiz App.0ccc1c90226c68e5406d.png",
+    "static/media/Magic Notes.png": "/Portfolio/static/media/Magic Notes.c591f7d873b7218c221d.png",
+    "static/media/cv.pdf": "/Portfolio/static/media/cv.59c0af0ff99fa59d0d2c.pdf",
+    "index.html": "/Portfolio/index.html",
+    "main.7de55f88.css.map": "/Portfolio/static/css/main.7de55f88.css.map",
+    "main.cf8023e6.js.map": "/Portfolio/static/js/main.cf8023e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7de55f88.css",
+    "static/js/main.cf8023e6.js"
+  ]
+}
