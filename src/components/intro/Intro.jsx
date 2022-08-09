@@ -22,11 +22,11 @@ const Intro = () => {
               <h5>Experience</h5>
               <small>Fresher</small>
             </article>
-//             <article className="about__card">
-//               <VscFolderLibrary className="about__icon" />
-//               <h5>Projects</h5>
-//               <small>10 Completed Projects</small>
-//             </article>
+            <article className="about__card">
+              <VscFolderLibrary className="about__icon" />
+              <h5>Projects</h5>
+              <small>10 Completed Projects</small>
+            </article>
           </div>
           <p>Hi, I'm Fenil, and I'll graduate from the Parul University in 2023 with a degree in Computer Science Engneering. My interests are in Front End Engineering, and I love to create beautiful and performant products with delightful user experiences. Currently I'm also learning MERN stack development and Full stack development.<br/>
 
