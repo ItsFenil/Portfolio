@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.12605ef5.css",
-    "main.js": "/Portfolio/static/js/main.1c4ebdea.js",
+    "main.js": "/Portfolio/static/js/main.50e49ef0.js",
     "static/media/HotstarClone.png": "/Portfolio/static/media/HotstarClone.e02f4a3ed60fb71cb9df.png",
-    "static/media/RoboFriends.png": "/Portfolio/static/media/RoboFriends.b4c7b81c3dc13d3cc4fa.png",
-    "static/media/Background Generator.png": "/Portfolio/static/media/Background Generator.64dc4b56fd35b1206383.png",
     "static/media/RPS.png": "/Portfolio/static/media/RPS.14d58db5136da79aeb80.png",
     "static/media/me.jpg": "/Portfolio/static/media/me.b738a511ffb78c6f6b4c.jpg",
     "static/media/Awesome Quiz App.png": "/Portfolio/static/media/Awesome Quiz App.0ccc1c90226c68e5406d.png",
     "static/media/resume.pdf": "/Portfolio/static/media/resume.9b3d56e022cfafde3932.pdf",
+    "static/media/snappy.png": "/Portfolio/static/media/snappy.6f2f7bb66a0e4f1b9458.png",
     "static/media/Magic Notes.png": "/Portfolio/static/media/Magic Notes.c591f7d873b7218c221d.png",
+    "static/media/Todo mern.png": "/Portfolio/static/media/Todo mern.5101be69ed2a15277014.png",
     "index.html": "/Portfolio/index.html",
     "main.12605ef5.css.map": "/Portfolio/static/css/main.12605ef5.css.map",
-    "main.1c4ebdea.js.map": "/Portfolio/static/js/main.1c4ebdea.js.map"
+    "main.50e49ef0.js.map": "/Portfolio/static/js/main.50e49ef0.js.map"
   },
   "entrypoints": [
     "static/css/main.12605ef5.css",
-    "static/js/main.1c4ebdea.js"
+    "static/js/main.50e49ef0.js"
   ]
 }
