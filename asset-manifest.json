@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.12605ef5.css",
-    "main.js": "/Portfolio/static/js/main.ffc42b86.js",
+    "main.js": "/Portfolio/static/js/main.166099b4.js",
     "static/media/weatherApp.png": "/Portfolio/static/media/weatherApp.89a35f662c16b504956d.png",
     "static/media/cryptohunter.png": "/Portfolio/static/media/cryptohunter.e35c8a78212054d34d71.png",
     "static/media/me4.jpg": "/Portfolio/static/media/me4.40ea35bdf0df307b426d.jpg",
     "static/media/restaurant.png": "/Portfolio/static/media/restaurant.6f7b5f991d5bf8aeeee3.png",
     "static/media/snappy.png": "/Portfolio/static/media/snappy.6f2f7bb66a0e4f1b9458.png",
     "static/media/Magic Notes.png": "/Portfolio/static/media/Magic Notes.c591f7d873b7218c221d.png",
-    "static/media/resume.pdf": "/Portfolio/static/media/resume.db505309eff8d95f9e1b.pdf",
+    "static/media/resume.pdf": "/Portfolio/static/media/resume.c9cfb23f81f8ec5fde66.pdf",
     "static/media/Todo mern.png": "/Portfolio/static/media/Todo mern.5101be69ed2a15277014.png",
     "index.html": "/Portfolio/index.html",
     "main.12605ef5.css.map": "/Portfolio/static/css/main.12605ef5.css.map",
-    "main.ffc42b86.js.map": "/Portfolio/static/js/main.ffc42b86.js.map"
+    "main.166099b4.js.map": "/Portfolio/static/js/main.166099b4.js.map"
   },
   "entrypoints": [
     "static/css/main.12605ef5.css",
-    "static/js/main.ffc42b86.js"
+    "static/js/main.166099b4.js"
   ]
 }
