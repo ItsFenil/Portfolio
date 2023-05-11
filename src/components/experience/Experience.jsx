@@ -9,8 +9,20 @@ const Experience = () => {
       <h2>Skills</h2>
       <div className="container experience__container">
         <div className="experience__frontend">
-          <h3>Front-end Development</h3>
+          <h3>Front-end Skills</h3>
           <div className="experience__content">
+          <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Figma</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Photoshop</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>UI & UX Designing</h4>
+            </article>
           <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>HTML</h4>
@@ -25,7 +37,7 @@ const Experience = () => {
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>React</h4>
+              <h4>React JS</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
@@ -35,36 +47,36 @@ const Experience = () => {
               <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>Bootstrap</h4>
             </article>
-            {/*<article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Tailwind</h4>
-            </article>*/}
-          </div>
-        </div>
-        <div className="experience__backend">
-          <h3>Extra Skills</h3>
-          <div className="experience__content">
-          <article className="experience__details">
+            <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>Wordpress</h4>
             </article>
-            <article className="experience__details">
+          </div>
+        </div>
+        <div className="experience__backend">
+          <h3>Back-End Skills</h3>
+          <div className="experience__content">
+          <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Webflow</h4>
+              <h4>Node JS</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Canva</h4>
+              <h4>Express JS</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Mongoose</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>MongoDB Atlast</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>MongoDB Compass</h4>
             </article>
             {/*<article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Swagger</h4>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>RSpec</h4>
-            </article>
-            <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>Git/GitHub</h4>
             </article>*/}

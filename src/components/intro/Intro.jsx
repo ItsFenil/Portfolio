@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaAward } from 'react-icons/fa';
 import { VscFolderLibrary } from 'react-icons/vsc';
-import ME from '../../assets/me.jpg';
+import ME from '../../assets/me4.jpg';
 import './intro.css';
 
 const Intro = () => {
@@ -20,17 +20,15 @@ const Intro = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>Fresher</small>
+              <small>4 projects completed as Freelancer</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>10 Completed Projects</small>
+              <small>20+ Completed Projects</small>
             </article>
           </div>
-          <p>Hi, I'm Fenil, and I'll graduate from the Parul University in 2023 with a degree in Computer Science Engneering. My interests are in Front End Engineering, and I love to create beautiful and performant products with delightful user experiences. Currently I'm also learning MERN stack development and Full stack development.<br/>
-
-I can build Front-end using programming language (HTML, CCS, JS, React.js), Wordpress and Webflow.</p>
+          <p>I'm a web developer by day, and a code wizard by night. I've built websites from scratch, designed logos, Painting, and created stunning visuals that would make Picasso jealous. When I'm not busy slaying pixels, you can find me tinkering with MERN and React projects. My skills may be diverse, but my dedication to crafting top-notch digital experiences is unmatched.</p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
       </div>

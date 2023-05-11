@@ -1,73 +1,73 @@
 import React from 'react';
-import IMG1 from '../../assets/Magic Notes.png';
-import IMG2 from '../../assets/Awesome Quiz App.png';
-import IMG3 from '../../assets/HotstarClone.png';
-import IMG4 from '../../assets/RoboFriends.png';
-import IMG5 from '../../assets/RPS.png';
-import IMG6 from '../../assets/Background Generator.png';
+import IMG1 from '../../assets/aadisolution.png';
+import IMG2 from '../../assets/cryptohunter.png';
+import IMG3 from '../../assets/restaurant.png';
+import IMG4 from '../../assets/weatherApp.png';
+import IMG5 from '../../assets/phoenix.png';
+import IMG6 from '../../assets/Todo mern.png';
 
 import './portfolio.css';
 
 const Portfolio = () => {
   const soloProjects = [
     {
-      id: 1,
-      title: 'A website like Keep Notes',
+      id: 6,
+      title: 'Aadi Solution',
       img: IMG1,
       description:
-        'This website is build using Bootstrap, Js and Html. Here we can add a note with a title and the description and that note will show in the same page after adding it and we can also delete a note.',
+        "I designed AADI Solution's logo, built their website from scratch using HTML and CSS, created and managed their social media pages, and received positive feedback from the client.",
       technologies: 'HTML | CSS | JavaScript',
-      link: 'https://itsfenil.github.io/Magic-Notes/',
-      github: 'https://github.com/ItsFenil/Magic-Notes',
-    },
-    {
-      id: 2,
-      title: 'RoboFriends',
-      img: IMG4,
-      description:
-        "Roboto Friends React.js and API's. This is a simple web site were using API's we call different robot images and and we give each rotobo a name and after that we can search roboto as per it's name.",
-      technologies: "React | RoboFriends API's",
-      link: 'https://itsfenil.github.io/Roboto-Friend/',
-      github: 'https://github.com/ItsFenil/Roboto-Friend',
-    },
-    {
-      id: 3,
-      title: 'Quiz Application with Timer',
-      img: IMG2,
-      description: 'This website is build using Html, Css and Js. Firstly all the rules will be display and a start quiz button after that quiz will start and there will be a 15 sec timer for each question and at the end it will display total right and wrong answer. ',
-      technologies: 'HTML | CSS | JavaScript',
-      link: 'https://itsfenil.github.io/ItsFenil-Quiz-Application-with-Timer-js/',
-      github: 'https://github.com/ItsFenil/ItsFenil-Quiz-Application-with-Timer-js',
-    },
-    {
-      id: 4,
-      title: 'Responsive Disney Plus Hotstar Landing Page Clone',
-      img: IMG3,
-      description:
-        'Responsive Disney Plus Hotstar Landing Page Clone',
-      technologies: 'HTML | CSS | JavaScript | Bootstrap',
-      link: 'https://itsfenil.github.io/Disney-Plus-Hotstar-Clone/',
-      github: 'https://github.com/ItsFenil/Disney-Plus-Hotstar-Clone',
+      link: 'https://aadisolution.com',
+      github: 'https://github.com/ItsFenil',
     },
     {
       id: 5,
-      title: 'Rock Paper Scissors game',
+      title: 'Phoenix House of Publication',
       img: IMG5,
       description:
-        'Rock paper scissors game build using HTML, CSS, JS. One player will be user and another player will be computer itself. Program will also count the number of win',
-      technologies: 'HTML | CSS | JavaScript ',
-      link: 'https://itsfenil.github.io/RockPaperscissors/',
-      github: 'https://github.com/ItsFenil/RockPaperscissors',
+        'I helped Phoenix House of Publication create their online presence by designing their logo, renaming the company, and developing a responsive website from scratch using HTML, CSS, and other tools.',
+      technologies: 'HTML | CSS | JavaScript',
+      link: 'https://pheonixhouseofpublication.co.in/',
+      github: 'https://github.com/ItsFenil',
     },
     {
-      id: 6,
-      title: 'Background Generator',
+      id: 2,
+      title: 'Responsive Todo list',
       img: IMG6,
       description:
-        'This website is build using HTML, CSS and JS. We can generate different Gradient color by selecting 2 color and also get their color code using this site.',
-      technologies: 'JavaScript | Scss | Python',
-      link: 'https://itsfenil.github.io/gradient-generator/',
-      github: 'https://github.com/ItsFenil/gradient-generator',
+        'It Streamline your to-do list with user-friendly web application. You can Quickly add, mark and delete tasks for maximum productivity.',
+      technologies: 'MongoDB | Express JS | React JS | Node JS (MERN)',
+      link: 'https://drive.google.com/file/d/1XMRnJxAMiFGQaAPXq_ubw4LsBHJ4tPTE/view?usp=share_link',
+      github: 'https://github.com/ItsFenil/Todo-List-Mern',
+    },
+    {
+      id: 3,
+      title: 'Crypto Hunter',
+      img: IMG2,
+      description: 'Track crypto prices in real-time with our comprehensive tracker. View all cryptocurrencies, their rank, price, and market cap, along with graphical charts of price history in USD and INR. Stay informed with up-to-date 24-hour, 30-day, 3-month, and 1-year price movements.',
+      technologies: 'React JS | Material UI | Chart JS | Coingecko api',
+      link: 'https://crypto-hunter-react.netlify.app/',
+      github: 'https://github.com/ItsFenil/Crypto-Tracker',
+    },
+    {
+      id: 4,
+      title: 'Gericht Restaurant UI/UX',
+      img: IMG3,
+      description:
+        'Created a visually stunning and user-friendly UI/UX design for a restaurant website, elevating the online dining experience for customers with seamless navigation and a modern aesthetic.',
+      technologies: 'React JS',
+      link: 'https://itsfenil.github.io/restaurant-UIUX/',
+      github: 'https://github.com/ItsFenil/restaurant-UIUX',
+    },
+    {
+      id: 1,
+      title: 'Weather App',
+      img: IMG4,
+      description:
+        "This website is build using Openweathermap api, we can search weather of any location using this website and it will return its temperature, mist/sunny/cloudy/haze, Humidity, Wind Speed",
+      technologies: "Openweathermap api | React JS",
+      link: 'https://shorturl.at/rxyRZ',
+      github: 'https://github.com/ItsFenil/Real-Time-Chatting-Web-Application-Snappy',
     },
   ];
 

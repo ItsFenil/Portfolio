@@ -7,7 +7,7 @@
 
 .contact__options {
     display: flex;
-    flex-direction: column;
+    /*flex-direction: column;*/
     justify-content: center;
     gap: 1.2rem;
 }
@@ -43,9 +43,13 @@
 
 .contact__option h4 {
     font-weight: 500;
+        
+
 }
 
-form span {
+
+
+/*form span {
     font-size: 0.8rem;
 }
 
@@ -78,3 +82,6 @@ textarea {
         width: var(--container-width-sm);
     }
 }
+.text-danger{
+    color: red;
+}*/
