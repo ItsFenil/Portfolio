@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.12605ef5.css",
-    "main.js": "/Portfolio/static/js/main.fea884b0.js",
+    "main.js": "/Portfolio/static/js/main.1b134ecf.js",
     "static/media/weatherApp.png": "/Portfolio/static/media/weatherApp.89a35f662c16b504956d.png",
+    "static/media/phoenix.png": "/Portfolio/static/media/phoenix.9c3cd438f789446d54ed.png",
     "static/media/cryptohunter.png": "/Portfolio/static/media/cryptohunter.e35c8a78212054d34d71.png",
+    "static/media/aadisolution.png": "/Portfolio/static/media/aadisolution.06c71d52a550d22244b6.png",
     "static/media/me4.jpg": "/Portfolio/static/media/me4.40ea35bdf0df307b426d.jpg",
     "static/media/restaurant.png": "/Portfolio/static/media/restaurant.6f7b5f991d5bf8aeeee3.png",
-    "static/media/snappy.png": "/Portfolio/static/media/snappy.6f2f7bb66a0e4f1b9458.png",
-    "static/media/Magic Notes.png": "/Portfolio/static/media/Magic Notes.c591f7d873b7218c221d.png",
-    "static/media/resume.pdf": "/Portfolio/static/media/resume.5d3bfa4283c7ec9da6f3.pdf",
+    "static/media/resume.pdf": "/Portfolio/static/media/resume.f69ab93813166e42a31a.pdf",
     "static/media/Todo mern.png": "/Portfolio/static/media/Todo mern.5101be69ed2a15277014.png",
     "index.html": "/Portfolio/index.html",
     "main.12605ef5.css.map": "/Portfolio/static/css/main.12605ef5.css.map",
-    "main.fea884b0.js.map": "/Portfolio/static/js/main.fea884b0.js.map"
+    "main.1b134ecf.js.map": "/Portfolio/static/js/main.1b134ecf.js.map"
   },
   "entrypoints": [
     "static/css/main.12605ef5.css",
-    "static/js/main.fea884b0.js"
+    "static/js/main.1b134ecf.js"
   ]
 }
